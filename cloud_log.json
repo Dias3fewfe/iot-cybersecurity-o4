@@ -1,0 +1,79 @@
+[
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:42:33 ",
+    "Fridge_Temperature": 8.65,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "high"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:42:38 ",
+    "Fridge_Temperature": 1.3,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "low"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:42:43 ",
+    "Fridge_Temperature": 1.0,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "low"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:42:48 ",
+    "Fridge_Temperature": 4.05,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "low"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:42:53 ",
+    "Fridge_Temperature": 11.4,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "high"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:42:58 ",
+    "Fridge_Temperature": 13.85,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "high"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:43:03 ",
+    "Fridge_Temperature": 9.1,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "high"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:43:08 ",
+    "Fridge_Temperature": 7.7,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "high"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:43:13 ",
+    "Fridge_Temperature": 6.4,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "high"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:43:18 ",
+    "Fridge_Temperature": 13.0,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "high"
+  },
+  {
+    "Unnamed: 0": "25-Apr-19",
+    "Unnamed: 1": " 14:43:23 ",
+    "Fridge_Temperature": 1.6,
+    "Unnamed: 3": "Temp_Condition",
+    "Temp_Condition": "low"
+  }
+]
